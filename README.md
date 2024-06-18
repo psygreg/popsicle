@@ -3,6 +3,6 @@ A **modified version of System76's PopOS** with **Gnome Software as its package 
 
 I recommend checking Xanmod's official website if you wish to install a kernel that is further optimized for your particular CPU microcode at https://xanmod.org
 
-Current version available: **22.04.0-1** | 6.9.5-linux-xanmod-x64v1 - coming soon**
+Current version available: **22.04.0-1** | kernel 6.9.5-linux-xanmod-x64v1 - coming soon**
 
 **md5sum: dbbcfef5633848ed7be4062fd7be1247**
