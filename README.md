@@ -1,5 +1,5 @@
 # Popsicle!
-A **modified version of System76's Pop!_OS** with custom kernel, `gnome-software` as `dpkg` and `flatpak` frontend and some other improvements focused on gamers. **Full list of changes in the Wiki**.
+A **modified version of System76's Pop!_OS** with custom kernel, `plasma-discover` as `dpkg` and `flatpak` frontend and some other improvements focused on gamers. **Full list of changes in the Wiki**.
 
 **NEW!** You can now also convert an existing installation of *Pop!_OS* into *Popsicle!* by running the shell script provided at ***Releases***.
 
